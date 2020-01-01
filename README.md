@@ -4,7 +4,7 @@ http://shinhan-hackathon.com/ 참고
 
 ## 사용 기술 스펙
 - Toast Cloud, AWS RDS
-- CentOs7, nginx
+- CentOS 7, nginx
 - Java(JDK 1.8), Springboot, JPA, MariaDB, JSP
 - HTML, Bootstrap, JQuery, ApexCharts, AmCharts
 
