@@ -1,6 +1,6 @@
 # 2019 신한해커톤 본선 진출작
 신한그룹 Open API를 이용한 2박3일 해커톤의 결과물입니다. 
-http://shinhan-hackathon.com/ 참고 
+ * 사이트 주소: http://www.shinhan-myfund.site/ 
 
 ## 사용 기술 스펙
 - Toast Cloud, AWS RDS
